@@ -34,8 +34,8 @@ This is an interactive web application built using Streamlit that predicts the q
    git clone https://github.com/your-username/wine-quality-predictor.git
    cd wine-quality-predictor
 
-Model
+## Model
 The predictive model is pre-trained and saved as best_wine_quality_model.pkl. It uses physicochemical features to estimate wine quality on a numeric scale.
 
-Dataset
+## Dataset
 The model was trained on the Wine Quality Dataset from the UCI Machine Learning Repository.
